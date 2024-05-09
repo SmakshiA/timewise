@@ -1,7 +1,7 @@
 <b>Productivity App</b>
 
 Technologies used : JAVA, SQLite, Andriod
-
+<image style="height=200px" src="![image](https://github.com/SmakshiA/timewise/assets/112183051/cccb6fa7-36bf-4aec-bc2e-0c36168e1a72)"></image>
 ![image](https://github.com/SmakshiA/timewise/assets/112183051/cccb6fa7-36bf-4aec-bc2e-0c36168e1a72)
 ![image](https://github.com/SmakshiA/timewise/assets/112183051/aef5e37f-81ed-443b-9ed2-cb1bd9f91a08)
 ![image](https://github.com/SmakshiA/timewise/assets/112183051/91a22627-e7a8-4d28-9819-330b0a7277a4)
