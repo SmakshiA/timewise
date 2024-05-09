@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/exerciseNameEditText"
+        android:layout_width="377dp"
+        android:layout_height="109dp"
+        android:hint="Exercise Name" />
+
+    <EditText
+        android:id="@+id/exerciseDurationEditText"
+        android:layout_width="377dp"
+        android:layout_height="109dp"
+        android:hint="Duration (in sec)" />
+
+    <Button
+        android:id="@+id/addExerciseButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="#ED776E"
+        android:text="Add Exercise" />
+</LinearLayout>

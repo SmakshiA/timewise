@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TimeWise</string>
+    <!-- Audio options for the Spinner -->
+    <string-array name="audio_files">
+        <item>Lounge</item>
+        <item>Nature</item>
+        <item>Yoga</item>
+        <!-- Add more audio options as needed -->
+    </string-array>
+</resources>
